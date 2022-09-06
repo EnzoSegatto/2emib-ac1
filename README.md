@@ -2,7 +2,7 @@
 # 2emib-ac1
 Projeto de um sistema full stack
 ## Alunos
-- Nome do Aluno
+- ` Nome do Aluno `
 - Nome do Aluno
 - Nome do Aluno
 - Nome do Aluno
